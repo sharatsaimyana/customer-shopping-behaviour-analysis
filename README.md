@@ -64,12 +64,20 @@ Business Insights
 ```
 Customer-Shopping-Behaviour-Analysis/
 │
-├── customer_shopping_behaviour_analysis.ipynb
-├── creating_database.sql
-├── creating_table.sql
-├── importing_table.sql
-├── business_analysis.sql
-├── customer_behaviour_dashboard.pbix
+├── Dashboard_Preview/
+        ├── First_page_dashboard.png
+        ├── Second_page_dashboard.png
+├── Dataset_csv/
+        ├── customer_shopping_behaviour.csv
+├── Jupyter_Notebook_file/
+        ├── customer_shopping_behaviour_analysis.ipynb
+├── sql_codes/
+        ├── creating_database.sql
+        ├── creating_table.sql
+        ├── importing_table.sql
+        ├── business_analysis.sql
+├── Power_BI_Files/
+        ├── customer_behaviour_dashboard.pbix
 ├── README.md
 ```
 
@@ -184,15 +192,11 @@ The dashboard provides interactive insights into customer purchasing behaviour.
 ---
 
 # 📷 Dashboard Preview
+### First Page of the Dashboard
+![Dashboard_preview](Dashboard_Preview/First_page_dashboard.png)
 
-> *(Add screenshots of your Power BI dashboard here.)*
-
-Example:
-
-```
-images/dashboard.png
-```
-
+### Second Page of the Dashboard
+![Dashboard_preview](Dashboard_Preview/Second_part_dashboard.png)
 ---
 
 # 🎯 Learning Outcomes
